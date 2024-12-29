@@ -1,1 +1,1 @@
-# gl-aiml
+# Great Learning - AIML Projects
